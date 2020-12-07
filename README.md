@@ -139,5 +139,6 @@ mvn package
 | Name   | GitHub                                         | Role      |
 | ------ | ---------------------------------------------- | --------- |
 | 이진영 | [leejinzero](https://github.com/leejinzero)    | FullStack |
-| 유현진 | [guswls](https://github.com/guswls)           | FullStack |
-| 김형준 | [hyungjun26](https://github.com/hyungjun26) | FrontEnd  |
+| 김형준 | [hyungjun26](https://github.com/hyungjun26) | FullStack  |
+| 유현진 | [guswls](https://github.com/guswls)           | FrontEnd |
+
